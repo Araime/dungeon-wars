@@ -13,7 +13,7 @@
 Инвентарь персонажа;  
 Сюжет и концовка;
 
-
+https://github.com/Araime/dungeon-wars/assets/82653875/c9af40f1-fb60-4bc5-8909-f2efea7b2fa3
 
 ## Установка
 
