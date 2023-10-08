@@ -13,14 +13,14 @@
 Инвентарь персонажа;  
 Сюжет и концовка;
 
-
+https://github.com/Araime/dungeon-wars/assets/82653875/c9af40f1-fb60-4bc5-8909-f2efea7b2fa3
 
 ## Установка
 
 ### Скачать
 
 Python3 должен быть уже установлен.
-[Скачать](https://github.com/Araime/alarm-clock/archive/master.zip) этот 
+[Скачать](https://github.com/Araime/dungeon-wars/archive/master.zip) этот 
 репозиторий себе на компьютер.
 
 Рекомендуется использовать [virtualenv/venv](https://docs.python.org/3/library/venv.html)
